@@ -2,6 +2,7 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
+    <link rel="text/javascript" href="index.js">
     <title>Manu</title>
   </head>
   <body>
