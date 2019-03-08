@@ -1,3 +1,3 @@
 # portafolio-repo
 
-Bienvenido a mi Primer proyecto con git 🦄
+Bienvenido al proyecto portafolio con git 🦄
