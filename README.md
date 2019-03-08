@@ -1,3 +1,10 @@
-# portafolio-repo
+# Repositorio de Currículo
 
-Bienvenido al proyecto portafolio con git 🦄
+## Herramientas utilizadas
+[] Git kraken
+[] PHP / HTML
+[] MySql
+[] Sass
+[] Css
+[] Javascript
+[] React
