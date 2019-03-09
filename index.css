@@ -1,3 +1,55 @@
 *{
   font-family: 'Roboto', sans-serif;
 }
+
+header.info-container{
+  display: flex;
+  justify-content: space-between;
+}
+
+.info-container{
+  border-bottom: 2px solid gray;
+}
+
+.lista-container ol{
+  display: flex;
+  margin-right: 60px;
+  margin-left: 60px;
+  padding-left: 0px;
+}
+
+.lista-container li{
+  list-style: none;
+  padding: 1px 50px;
+}
+
+.lista-container a{
+  text-decoration: none;
+  color: gray;
+}
+
+/* Media Queries */
+@media screen and (max-width: 1440px) {
+
+}
+
+@media screen and (max-width: 1024px) {
+
+}
+
+@media screen and (max-width: 768px) {
+
+}
+
+@media screen and (max-width: 425px) {
+
+}
+
+@media screen and (max-width: 375px) {
+
+}
+
+@media screen and (max-width: 320px) {
+
+}
+
