@@ -2,13 +2,35 @@
   font-family: 'Roboto', sans-serif;
 }
 
-header.info-container{
+.info-container{
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
 }
 
 .info-container{
   border-bottom: 2px solid gray;
+}
+
+.formulario-container{
+  padding: 25px 40px;
+  border-bottom: 2px solid gray;
+  display: flex;
+  justify-content: center;
+}
+
+.formulario-soporte{
+  display: flex;
+}
+
+.columna-1, .columna-2{
+  display: flex;
+  flex-direction: column;
+  padding: 30px;
+}
+
+.columna-2 input{
+  align-self: flex-start;
+  margin: 5px 0;
 }
 
 .lista-container ol{
@@ -26,6 +48,10 @@ header.info-container{
 .lista-container a{
   text-decoration: none;
   color: gray;
+}
+
+textarea{
+  resize: none;
 }
 
 /* Media Queries */
@@ -52,4 +78,3 @@ header.info-container{
 @media screen and (max-width: 320px) {
 
 }
-
